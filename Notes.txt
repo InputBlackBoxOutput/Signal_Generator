@@ -1,0 +1,9 @@
+Design Parameters 
+Output Voltage Range => 0.5 to 2 Vp-p
+Output Frequency Range => 100Hz to 20kHz
+
+Generated Vp-p after respective stages
+Square          17.10
+Triangular       3.72
+Sine             1.77
+Gain of the last stage must be set accordingly
